@@ -1,1 +1,3 @@
-my name is sharmila
+name-sharmila
+course-bsc computer science
+I learn basics of devops
